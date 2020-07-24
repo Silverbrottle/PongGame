@@ -7,4 +7,8 @@ It's an easy to run game just unzip the downloaded project files and then run it
 ## Prequisite:
 Python 3 needs to be installed.
 
+Packages need:
+
+-Tkinter
+
 
